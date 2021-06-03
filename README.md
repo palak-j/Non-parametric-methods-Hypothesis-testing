@@ -43,3 +43,9 @@ There are some commonly used non parametric methods.
 #### |Expect She/ See He	 |53	|53	|55	|58	|52	|53	|75	|70	|67	|58	|67
 #### |Neutral/ See They	  |52	|50	|52	|51	|46	|49	|68	|60	|60	|59	|60
 
+
+
+
+For more detailed explanation:
+#### Visit
+#### https://palak-j.github.io/notes
